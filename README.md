@@ -9,11 +9,17 @@ This Text Summarization project utilizes T5 (Text-To-Text Transfer Transformer),
 **🌟 Features**
 
 ✔ Pre-Trained Transformer Model – Uses T5-small, a powerful NLP model trained for text generation.
+
 ✔ Text Cleaning & Formatting – Automatically corrects sentence structure before summarization.
+
 ✔ Customizable Summary Length – Allows tuning of maximum and minimum summary length.
+
 ✔ Batch Summarization Support – Can summarize multiple texts at once.
+
 ✔ Error Handling – Checks for empty inputs and invalid text formats.
+
 ✔ Tokenization & Encoding – Converts text into model-readable format using T5Tokenizer.
+
 ✔ Beam Search Optimization – Uses beam search decoding for high-quality text generation.
 
 **🛠️ Technologies Used**
@@ -91,9 +97,13 @@ User Input Handling – Prompts user for text and returns a summary.
 **📌 Future Enhancements**
 
 ✅ Support for Larger T5 Models – Upgrade to T5-base or T5-large for improved performance.
+
 ✅ Fine-Tuning on Custom Datasets – Train the model on domain-specific content (legal, medical, finance).
+
 ✅ Web Interface Integration – Deploy using Flask or Streamlit for user-friendly interaction.
+
 ✅ Multi-Language Summarization – Extend support for multiple languages.
+
 ✅ Real-Time Summarization API – Create an API for summarizing text from external sources.
 
 ![Image](https://github.com/user-attachments/assets/b9c05be0-4feb-402d-923a-afa0cee47b5e)
